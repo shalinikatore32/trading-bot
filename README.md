@@ -26,6 +26,7 @@ The application follows a clean, modular structure with:
 
 ## 📂 Project Structure
 
+```bash
 trading_bot/
 │
 ├── bot/
@@ -38,6 +39,7 @@ trading_bot/
 ├── requirements.txt
 ├── trading_bot.log # Log file (generated after execution)
 └── README.md
+```
 
 ---
 
