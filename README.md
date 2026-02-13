@@ -70,14 +70,8 @@ venv\Scripts\activate
 ## 4️⃣ Create .env File
 
 ```bash
-
-```
-
 BINANCE_API_KEY=your_api_key_here
 BINANCE_API_SECRET=your_secret_here
-
-```
-
 ```
 
 ## ▶️ How to Run
